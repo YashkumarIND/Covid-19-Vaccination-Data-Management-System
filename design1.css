@@ -1,0 +1,41 @@
+body{
+  background-color: #181616;
+}
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-left: 22rem;
+  margin-top: 6rem;
+  background-color: #415F7A;
+  border-radius: 4rem;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+  width: 700px;
+  height: 500px;
+}
+
+.container1{
+  border-radius: 2rem;
+  width: 675px;
+  height: 480px;
+  background-color: #262323;
+  margin-right: 25rem;
+  margin-top: 0.5rem;
+
+}
